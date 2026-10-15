@@ -29,7 +29,7 @@ try:
         )
 
         print(summary)
-        with open("weather_report.txt", "w") as file:
+        with open(r".\Assignment 1\weather_report.txt", "w") as file:
             file.write(summary)
 
 except requests.exceptions.Timeout:
