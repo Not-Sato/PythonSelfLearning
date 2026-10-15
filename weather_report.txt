@@ -1,0 +1,5 @@
+Weather Report
+Temperature: 34.4 C
+Windspeed: 6.5 km/h
+Weather Code: 3
+Timezone: Asia/Kolkata
